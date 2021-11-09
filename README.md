@@ -5,7 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirdnew)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendrik.ramos@gmail.com)
 
-___
+<br>
+
 ## Skills:
 <div>
 <img alt="ruby" width="40" height="40" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
@@ -18,6 +19,6 @@ ___
 <br><br>
 <div align="center">
   <a href="https://github.com/kirdnew">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kirdnew&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirdnew&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kirdnew&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirdnew&layout=compact&langs_count=7&theme=dark"/>
 </div>
